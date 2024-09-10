@@ -27,10 +27,28 @@ Como um lego, você irá utilizar peças para criar algoritimos, ou seja, para r
 
 ## Tipos de dados
 
-- Strings  (textos): "" '' ``
-- Number: 2, 1.4
-- Function
+- (x) Strings  (textos): "" '' ``
+- (x) Number: 2, 1.4
+- (x) Boolean: true, false
 
 ## Operadores
 
-- Operador de atribuição de valor
+- (x) Operador de atribuição de valor | =
+- (x) Operador de concatenação | +
+
+## Arrays
+
+- (x) Uma lista que contém qualquer tipo de dado
+
+## Objetos
+
+- (x) Atributos e métodos
+- (x) Criação e manipulação de onjetos
+- (x) Acesso a propriedades de objetos
+
+## Functions
+
+- (x) criar, passar argumento
+- (x) executar
+- (x) arrow function | const criarMeta = () => {}
+- (x) named function | function criarMeta() {}
