@@ -14,6 +14,6 @@ const start = () => {
                 return
         }
     }
-}
+} 
 
 start()
