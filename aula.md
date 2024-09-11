@@ -52,3 +52,7 @@ Como um lego, você irá utilizar peças para criar algoritimos, ou seja, para r
 - (x) executar
 - (x) arrow function | const criarMeta = () => {}
 - (x) named function | function criarMeta() {}
+
+## Estrutura de repetição
+
+(x) While
