@@ -3,5 +3,5 @@
    - (x) metas realizadas
    - (x) metas abertas
 - (x) marcar/desmarcar metas como concluida
-- remover metas
+- (x) remover metas
 - sistema de mensagem
