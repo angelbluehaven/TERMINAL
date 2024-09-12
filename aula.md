@@ -33,8 +33,9 @@ Como um lego, você irá utilizar peças para criar algoritimos, ou seja, para r
 
 ## Operadores
 
-- (x) Operador de atribuição de valor | =
+- (x) Operador de atribuição de valor | = (atribuir função)
 - (x) Operador de concatenação | +
+- (x) Operadores de comparação | == (compara um lado com o outro lado) | != (diferente) | < (menor quê) | > (maior quê) | <= => (menor/maior igual)
 
 ## Arrays
 
@@ -60,7 +61,7 @@ Como um lego, você irá utilizar peças para criar algoritimos, ou seja, para r
 ## Condicionais
 
 - (x) Switch
-
+- (x) if/else
 ## Módulos em Node.js
 
 - (x) Importação de módulos (require, CommonJS)
@@ -69,3 +70,4 @@ Como um lego, você irá utilizar peças para criar algoritimos, ou seja, para r
 ## Programação assicrona e promessa
 
 - (x) Uso de funções assincronas (async/await)
+
