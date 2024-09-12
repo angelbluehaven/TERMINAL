@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "value": "Correr todos os dias",
+    "checked": false
+  },
+  {
+    "value": "Ler a biblia todos os dias",
+    "checked": false
+  }
+]
