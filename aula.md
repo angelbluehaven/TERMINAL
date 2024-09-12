@@ -8,11 +8,11 @@ Como um lego, você irá utilizar peças para criar algoritimos, ou seja, para r
 ## Peças de uma linguagem
 
 - (x) Comentários
-- Declaração de variáveos (const, let)
-- Operadores ( atribuição, concatenação, matemática, lógicos )
-- Tipos de dados( strig, number, boolean)
-- Controle de fluxo (if/else)
-- Estrutura de repetição (for, while)
+- (x) Declaração de variáveos (const, let)
+- (x) Operadores ( atribuição, concatenação, matemática, lógicos )
+- (x) Tipos de dados( strig, number, boolean)
+- (x) Controle de fluxo (if/else)
+- (x) Estrutura de repetição (for, while)
 
 ## Fases da resolução de um problema
 
@@ -41,7 +41,7 @@ Como um lego, você irá utilizar peças para criar algoritimos, ou seja, para r
 ### Arrays
 
 - (x) Uma lista que contém qualquer tipo de dado
-- (x) Métodos de array: push. [find. forEach, filter] :  HOF (Higher Orde Functions)
+- (x) Métodos de array: push. [find. forEach, filter, map] :  HOF (Higher Orde Functions)
 
 ### Objetos
 
