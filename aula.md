@@ -64,10 +64,18 @@ Como um lego, você irá utilizar peças para criar algoritimos, ou seja, para r
 
 - (x) Switch
 - (x) if/else
+
 ## Módulos em Node.js
 
 - (x) Importação de módulos (require, CommonJS)
 - (x) Biblioteca 'inquirer' para criar prompts interativos
+- (x) FS (file system)
+
+## JSON
+
+-(x) Javascript Object Notation
+-(x) JSON.parse(): transforma de JSON para JS
+-(x) JSON.stringfy(): trnasforma de JS para JSON
 
 ## Programação assicrona e promessa
 
