@@ -36,18 +36,20 @@ Como um lego, você irá utilizar peças para criar algoritimos, ou seja, para r
 - (x) Operador de atribuição de valor | = (atribuir função)
 - (x) Operador de concatenação | +
 - (x) Operadores de comparação | == (compara um lado com o outro lado) | != (diferente) | < (menor quê) | > (maior quê) | <= => (menor/maior igual)
+- (x) Spred operator: ...
 
-## Arrays
+### Arrays
 
 - (x) Uma lista que contém qualquer tipo de dado
+- (x) Métodos de array: push. [find. forEach, filter] :  HOF (Higher Orde Functions)
 
-## Objetos
+### Objetos
 
 - (x) Atributos e métodos
 - (x) Criação e manipulação de onjetos
 - (x) Acesso a propriedades de objetos
 
-## Functions
+### Functions
 
 - (x) criar, passar argumento
 - (x) executar
